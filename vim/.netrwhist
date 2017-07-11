@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/cygdrive/d/demo.dev'
+let g:netrw_dirhist_2='/home/shi/.vim'
+let g:netrw_dirhist_3='/home/shi/vim55/.vim/view'
+let g:netrw_dirhist_4='/home/shi/.vim/bundle/syntastic/syntax_checkers/erlang'
+let g:netrw_dirhist_5='/home/shi/vimCom'
+let g:netrw_dirhist_6='/home/shi/xsys/server/inc'
+let g:netrw_dirhist_7='/home/shi/data/demo.dev/tools/gen_proto'
+let g:netrw_dirhist_8='/home/shi/data/demo.dev/tools'
+let g:netrw_dirhist_9='/home/shi/data/demo.dev/tools/gen_proto'
